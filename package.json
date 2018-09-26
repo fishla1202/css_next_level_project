@@ -1,0 +1,22 @@
+{
+  "name": "css_next_1",
+  "version": "1.0.0",
+  "description": "learn css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fishla1202/css_next_level_project.git"
+  },
+  "author": "fishLa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fishla1202/css_next_level_project/issues"
+  },
+  "homepage": "https://github.com/fishla1202/css_next_level_project#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
